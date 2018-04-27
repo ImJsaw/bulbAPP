@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\63293fac67e48946a4a7749166a5f748\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f8a397e3eacf2ceb1b6f3400bab0ac5b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\3591e7306190e79f9196dde2d1d2f25a\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\92b9deb1a2fc278e604b4130d78765b4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\9d3d33ea1e0d7c7b45cebcc40f63fafd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c2b62056fc49cf91da8651ed2fdf55\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea9f2c2a8cb3c0f5543be423a50ee4c2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\80e504254c40e1c482a0c978325593d7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e906cdf4c4bb1f10546dc6d31fe8fe9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f309be9f58797bc5d779826cdc9ee685\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\033e2c7ecd4355e37ba29a1230f0886e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\4aab4dbd1eb12c71a09865a6981a6dff\AndroidManifest.xml:2:1-16:12
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\3591e7306190e79f9196dde2d1d2f25a\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\3591e7306190e79f9196dde2d1d2f25a\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\4aab4dbd1eb12c71a09865a6981a6dff\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\4aab4dbd1eb12c71a09865a6981a6dff\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:6:22-63
+application
+ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\63293fac67e48946a4a7749166a5f748\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\63293fac67e48946a4a7749166a5f748\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f8a397e3eacf2ceb1b6f3400bab0ac5b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f8a397e3eacf2ceb1b6f3400bab0ac5b\AndroidManifest.xml:9:5-20
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\3591e7306190e79f9196dde2d1d2f25a\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\3591e7306190e79f9196dde2d1d2f25a\AndroidManifest.xml:13:5-14:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\92b9deb1a2fc278e604b4130d78765b4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\92b9deb1a2fc278e604b4130d78765b4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\9d3d33ea1e0d7c7b45cebcc40f63fafd\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\9d3d33ea1e0d7c7b45cebcc40f63fafd\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c2b62056fc49cf91da8651ed2fdf55\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c2b62056fc49cf91da8651ed2fdf55\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea9f2c2a8cb3c0f5543be423a50ee4c2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea9f2c2a8cb3c0f5543be423a50ee4c2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\80e504254c40e1c482a0c978325593d7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\80e504254c40e1c482a0c978325593d7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e906cdf4c4bb1f10546dc6d31fe8fe9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e906cdf4c4bb1f10546dc6d31fe8fe9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f309be9f58797bc5d779826cdc9ee685\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f309be9f58797bc5d779826cdc9ee685\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\033e2c7ecd4355e37ba29a1230f0886e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\033e2c7ecd4355e37ba29a1230f0886e\AndroidManifest.xml:29:5-20
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\4aab4dbd1eb12c71a09865a6981a6dff\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\4aab4dbd1eb12c71a09865a6981a6dff\AndroidManifest.xml:13:5-14:19
+	android:screenOrientation
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:15:9-45
+	android:supportsRtl
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:10:9-36
+	android:allowBackup
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:14:9-40
+activity#bing.bulb3.welcome
+ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:17:19-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:21:27-74
+activity#bing.bulb3.MainActivity
+ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:24:9-86
+	android:screenOrientation
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:24:48-84
+	android:name
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:24:19-47
+activity#bing.bulb3.Main2
+ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:25:9-27:50
+	android:parentActivityName
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml:26:13-34
+uses-sdk
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\63293fac67e48946a4a7749166a5f748\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\63293fac67e48946a4a7749166a5f748\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f8a397e3eacf2ceb1b6f3400bab0ac5b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f8a397e3eacf2ceb1b6f3400bab0ac5b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\3591e7306190e79f9196dde2d1d2f25a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\3591e7306190e79f9196dde2d1d2f25a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\92b9deb1a2fc278e604b4130d78765b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\92b9deb1a2fc278e604b4130d78765b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\9d3d33ea1e0d7c7b45cebcc40f63fafd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\9d3d33ea1e0d7c7b45cebcc40f63fafd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c2b62056fc49cf91da8651ed2fdf55\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c2b62056fc49cf91da8651ed2fdf55\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea9f2c2a8cb3c0f5543be423a50ee4c2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea9f2c2a8cb3c0f5543be423a50ee4c2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\80e504254c40e1c482a0c978325593d7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\80e504254c40e1c482a0c978325593d7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e906cdf4c4bb1f10546dc6d31fe8fe9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e906cdf4c4bb1f10546dc6d31fe8fe9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f309be9f58797bc5d779826cdc9ee685\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f309be9f58797bc5d779826cdc9ee685\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\033e2c7ecd4355e37ba29a1230f0886e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\033e2c7ecd4355e37ba29a1230f0886e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\4aab4dbd1eb12c71a09865a6981a6dff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\4aab4dbd1eb12c71a09865a6981a6dff\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\63293fac67e48946a4a7749166a5f748\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\bulb3-20180116T095049Z-001\bulb3\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\63293fac67e48946a4a7749166a5f748\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\92b9deb1a2fc278e604b4130d78765b4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\92b9deb1a2fc278e604b4130d78765b4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\9d3d33ea1e0d7c7b45cebcc40f63fafd\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\9d3d33ea1e0d7c7b45cebcc40f63fafd\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c2b62056fc49cf91da8651ed2fdf55\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\34c2b62056fc49cf91da8651ed2fdf55\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea9f2c2a8cb3c0f5543be423a50ee4c2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea9f2c2a8cb3c0f5543be423a50ee4c2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\80e504254c40e1c482a0c978325593d7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\80e504254c40e1c482a0c978325593d7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e906cdf4c4bb1f10546dc6d31fe8fe9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e906cdf4c4bb1f10546dc6d31fe8fe9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f309be9f58797bc5d779826cdc9ee685\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f309be9f58797bc5d779826cdc9ee685\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\033e2c7ecd4355e37ba29a1230f0886e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\033e2c7ecd4355e37ba29a1230f0886e\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\63293fac67e48946a4a7749166a5f748\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bing5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\63293fac67e48946a4a7749166a5f748\AndroidManifest.xml:26:9-47

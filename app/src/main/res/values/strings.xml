@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">COLOR_BULB</string>
+    <string name="new_item">新增裝置</string>
+    <string name="item_name">裝置名稱</string>
+    <string name="item_code">裝置序號</string>
+    <string name="Y">確定</string>
+    <string name="N">取消</string>
+    <string name="RED">紅</string>
+    <string name="GREEN">綠</string>
+    <string name="BLUE">藍</string>
+    <string name="YELLOW">黃</string>
+    <string name="WHITE">白</string>
+    <string name="BLACK">關</string>
+
+    <string-array name="main_list"> /
+        <item>Item 01</item>
+    </string-array>
+
+</resources>

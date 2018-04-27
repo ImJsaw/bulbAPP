@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background_star"
+    android:id="@+id/layout">
+
+    <TextView
+        android:id="@+id/d_num"
+        android:layout_x="150dp"
+        android:layout_y="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:id="@+id/buttonY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="200dp"
+        android:layout_y="175dp"
+        android:background="@color/colorGray"
+        android:text="@string/YELLOW"
+        android:textColor="@color/colorYellow" />
+
+    <Button
+        android:id="@+id/buttonW"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="60dp"
+        android:layout_y="175dp"
+        android:background="@color/colorGray"
+        android:text="@string/WHITE"
+        android:textColor="@color/colorWhite" />
+
+    <Button
+        android:id="@+id/buttonR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="130dp"
+        android:layout_y="270dp"
+        android:background="@color/colorGray"
+        android:text="@string/RED"
+        android:textColor="@color/colorRed" />
+
+    <Button
+        android:id="@+id/buttonG"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="30dp"
+        android:layout_y="270dp"
+        android:background="@color/colorGray"
+        android:text="@string/GREEN"
+        android:textColor="@color/colorGreen" />
+
+    <Button
+        android:id="@+id/buttonB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="230dp"
+        android:layout_y="270dp"
+        android:background="@color/colorGray"
+        android:text="@string/BLUE"
+        android:textColor="@color/colorBlue" />
+
+
+</AbsoluteLayout>

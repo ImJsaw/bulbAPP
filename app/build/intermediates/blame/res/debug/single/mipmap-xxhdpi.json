@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\plus.png",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\welcome.png",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bulb.png",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\bulb.png"
+    },
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

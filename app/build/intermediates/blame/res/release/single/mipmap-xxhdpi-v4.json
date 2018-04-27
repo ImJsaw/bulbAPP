@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\background_white.jpg",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\background_white.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\icon.jpg",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\background_star.jpg",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\background_star.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\background_yellow.jpg",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\background_yellow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\background_red.jpg",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\background_red.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\background_green.jpg",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\background_green.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\background_blue.jpg",
+        "source": "C:\\Users\\SSDTest\\Downloads\\bulb3\\app\\src\\main\\res\\mipmap-xxhdpi\\background_blue.jpg"
+    }
+]

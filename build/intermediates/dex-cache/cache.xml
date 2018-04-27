@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SSDTest\.android\build-cache\4034e84f0b232b91aee965e7f8cd26bf9d15b1b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05e8375b2ec26e4508b2a745d5a0623ba95f9b49">
+        <dex dex="C:\Users\SSDTest\Downloads\bulb3\app\build\intermediates\pre-dexed\debug\classes_4c4df7d554c42e0d3d63d9a827f317f36d4a73a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SSDTest\.android\build-cache\7b7d7c8637270c6dd11b6c7290e5d281a8e6a421\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0772eec11be9e3803736882ae4bec4078986910e">
+        <dex dex="C:\Users\SSDTest\Downloads\bulb3\app\build\intermediates\pre-dexed\debug\classes_0a98988d89ab4231b3f830a235b4e4537d2670aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SSDTest\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\SSDTest\Downloads\bulb3\app\build\intermediates\pre-dexed\debug\gson-2.3_fe83ba53ef19f261429ed318b3a9371ab040a05a.jar" />
+    </item>
+
+</items>
